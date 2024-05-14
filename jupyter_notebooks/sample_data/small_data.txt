@@ -1,0 +1,260 @@
+﻿SmPC 100 mg, 400 mg hard capsules
+SUMMARY OF PRODUCT CHARACTERISTICS
+1. NAME OF THE MEDICINAL PRODUCT
+Imatinib Teva 100 mg hard capsules
+Imatinib Teva 400 mg hard capsules
+2. QUALITATIVE AND QUANTITATIVE COMPOSITION
+Imatinib Teva 100 mg hard capsules
+Each hard capsule contains 100 mg of imatinib (as mesilate).
+ 
+Imatinib Teva 400 mg hard capsules
+Each hard capsule contains 400 mg of imatinib (as mesilate).
+ 
+For the full list of excipients, see section 6.1.
+3. PHARMACEUTICAL FORM
+Hard capsule.
+ 
+Imatinib Teva 100 mg hard capsules
+Non transparent orange capsules with black marking 7629 on capsule body and black marking TEVA on capsule cap. The content of the capsule is white to light yellow granulated powder.
+ 
+The length of the capsule is from 19.1 mm to 19.7 mm and the width is 6.91 mm.
+ 
+Imatinib Teva 400 mg hard capsules
+Non transparent orange capsules with black marking 7630 on capsule body and black marking TEVA on capsule cap. The content of the capsule is white to light yellow granulated powder.
+ 
+The length of the capsule is from 23.0 mm to 23.6 mm and the width is 8.53 mm.
+4. CLINICAL PARTICULARS
+4.1 Therapeutic indications
+Imatinib Teva is indicated for the treatment of
+* adult and paediatric patients with newly diagnosed Philadelphia chromosome (bcr‑abl) positive (Ph+) chronic myeloid leukaemia (CML) for whom bone marrow transplantation is not considered as the first line of treatment.
+* adult and paediatric patients with Ph+ CML in chronic phase after failure of interferon‑alpha therapy, or in accelerated phase or blast crisis.
+* adult and paediatric patients with newly diagnosed Philadelphia chromosome positive acute lymphoblastic leukaemia (Ph+ ALL) integrated with chemotherapy.
+* adult patients with relapsed or refractory Ph+ ALL as monotherapy.
+* adult patients with myelodysplastic/myeloproliferative diseases (MDS/MPD) associated with platelet-derived growth factor receptor (PDGFR) gene re-arrangements.
+* adult patients with advanced hypereosinophilic syndrome (HES) and/or chronic eosinophilic leukaemia (CEL) with FIP1L1-PDGFRα rearrangement.
+ 
+The effect of imatinib on the outcome of bone marrow transplantation has not been determined.
+ 
+Imatinib Teva is indicated for
+* the treatment of adult patients with Kit (CD 117) positive unresectable and/or metastatic malignant gastrointestinal stromal tumours (GIST).
+* the adjuvant treatment of adult patients who are at significant risk of relapse following resection of Kit (CD117)-positive GIST. Patients who have a low or very low risk of recurrence should not receive adjuvant treatment.
+* the treatment of adult patients with unresectable dermatofibrosarcoma protuberans (DFSP) and adult patients with recurrent and/or metastatic DFSP who are not eligible for surgery.
+ 
+In adult and paediatric patients, the effectiveness of imatinib is based on overall haematological and cytogenetic response rates and progression‑free survival in CML, on haematological and cytogenetic response rates in Ph+ ALL, MDS/MPD, on haematological response rates in HES/CEL and on objective response rates in adult patients with unresectable and/or metastatic GIST and DFSP and on recurrence-free survival in adjuvant GIST. The experience with imatinib in patients with MDS/MPD associated with PDGFR gene re‑arrangements is very limited (see section 5.1). Except in newly diagnosed chronic phase CML, there are no controlled trials demonstrating a clinical benefit or increased survival for these diseases.
+4.2 Posology and method of administration
+Therapy should be initiated by a physician experienced in the treatment of patients with haematological malignancies and malignant sarcomas, as appropriate.
+Posology
+Imatinib Teva 100 mg hard capsules
+For doses of 400 mg and above (see dose recommendation below) a 400 mg hard capsule is available.
+ 
+Imatinib Teva 400 mg hard capsules
+For doses other than 400 mg and 800 mg (see dose recommendation below) a 100 mg hard capsule is available.
+ 
+Posology for CML in adult patients
+The recommended dosage of Imatinib Teva is 400 mg/day for adult patients in chronic phase CML. Chronic phase CML is defined when all of the following criteria are met: blasts < 15% in blood and bone marrow, peripheral blood basophils < 20%, platelets > 100 x 109/l.
+ 
+The recommended dosage of Imatinib Teva is 600 mg/day for adult patients in accelerated phase. Accelerated phase is defined by the presence of any of the following: blasts ≥ 15% but < 30% in blood or bone marrow, blasts plus promyelocytes ≥ 30% in blood or bone marrow (providing < 30% blasts), peripheral blood basophils ≥ 20%, platelets < 100 x 109/l unrelated to therapy.
+ 
+The recommended dose of Imatinib Teva is 600 mg/day for adult patients in blast crisis. Blast crisis is defined as blasts ≥ 30% in blood or bone marrow or extramedullary disease other than hepatosplenomegaly.
+ 
+Treatment duration: In clinical trials, treatment with imatinib was continued until disease progression. The effect of stopping treatment after the achievement of a complete cytogenetic response has not been investigated.
+ 
+Dose increases from 400 mg to 600 mg or 800 mg in patients with chronic phase disease, or from 600 mg to a maximum of 800 mg (given as 400 mg twice daily) in patients with accelerated phase or blast crisis may be considered in the absence of severe adverse drug reaction and severe non‑leukaemia‑related neutropenia or thrombocytopenia in the following circumstances: disease progression (at any time); failure to achieve a satisfactory haematological response after at least 3 months of treatment; failure to achieve a cytogenetic response after 12 months of treatment; or loss of a previously achieved haematological and/or cytogenetic response. Patients should be monitored closely following dose escalation given the potential for an increased incidence of adverse reactions at higher dosages.
+ 
+Posology for CML in children
+Dosing for children should be on the basis of body surface area (mg/m2). The dose of 340 mg/m2 daily is recommended for children with chronic phase CML and advanced phase CML (not to exceed the total dose of 800 mg). Treatment can be given as a once daily dose or alternatively the daily dose may be split into two administrations – one in the morning and one in the evening. The dose recommendation is currently based on a small number of paediatric patients (see sections 5.1 and 5.2).
+ 
+There is no experience with the treatment of children below 2 years of age.
+ 
+Dose increases from 340 mg/m2 daily to 570 mg/m2 daily (not to exceed the total dose of 800 mg) may be considered in children in the absence of severe adverse drug reaction and severe non‑leukaemia‑related neutropenia or thrombocytopenia in the following circumstances: disease progression (at any time); failure to achieve a satisfactory haematological response after at least 3 months of treatment; failure to achieve a cytogenetic response after 12 months of treatment; or loss of a previously achieved haematological and/or cytogenetic response. Patients should be monitored closely following dose escalation given the potential for an increased incidence of adverse reactions at higher dosages.
+ 
+Posology for Ph+ ALL in adult patients
+The recommended dose of Imatinib Teva is 600 mg/day for adult patients with Ph+ ALL. Haematological experts in the management of this disease should supervise the therapy throughout all phases of care.
+ 
+Treatment schedule: On the basis of the existing data, imatinib has been shown to be effective and safe when administered at 600 mg/day in combination with chemotherapy in the induction phase, the consolidation and maintenance phases of chemotherapy (see section 5.1) for adult patients with newly diagnosed Ph+ ALL. The duration of imatinib therapy can vary with the treatment programme selected, but generally longer exposures to imatinib have yielded better results.
+ 
+For adult patients with relapsed or refractory Ph+ALL imatinib monotherapy at 600 mg/day is safe, effective and can be given until disease progression occurs.
+ 
+Posology for Ph+ ALL in children
+Dosing for children should be on the basis of body surface area (mg/m2). The dose of 340 mg/m2 daily is recommended for children with Ph+ ALL (not to exceed the total dose of 600 mg).
+ 
+Posology for MDS/MPD
+The recommended dose of Imatinib Teva is 400 mg/day for adult patients with MDS/MPD.
+ 
+Treatment duration: In the only clinical trial performed up to now, treatment with imatinib was continued until disease progression (see section 5.1). At the time of analysis, the treatment duration was a median of 47 months (24 days ‑ 60 months).
+ 
+Posology for HES/CEL
+The recommended dose of Imatinib Teva is 100 mg/day for adult patients with HES/CEL.
+ 
+Dose increase from 100 mg to 400 mg may be considered in the absence of adverse drug reactions if assessments demonstrate an insufficient response to therapy.
+ 
+Treatment should be continued as long as the patient continues to benefit.
+ 
+Posology for GIST
+The recommended dose of imatinib is 400 mg/day for adult patients with unresectable and/or metastatic malignant GIST.
+ 
+Limited data exist on the effect of dose increases from 400 mg to 600 mg or 800 mg in patients progressing at the lower dose (see section 5.1).
+ 
+Treatment duration: In clinical trials in GIST patients, treatment with imatinib was continued until disease progression. At the time of analysis, the treatment duration was a median of 7 months (7 days to 13 months). The effect of stopping treatment after achieving a response has not been investigated.
+ 
+The recommended dose of imatinib is 400 mg/day for the adjuvant treatment of adult patients following resection of GIST. Optimal treatment duration is not yet established. Length of treatment in the clinical trial supporting this indication was 36 months (see section 5.1).
+ 
+Posology for DFSP
+The recommended dose of Imatinib Teva is 800 mg/day for adult patients with DFSP.
+ 
+Dose adjustment for adverse reactions
+ 
+Non‑haematological adverse reactions
+If a severe non‑haematological adverse reaction develops with imatinib use, treatment must be withheld until the event has resolved. Thereafter, treatment can be resumed as appropriate depending on the initial severity of the event.
+ 
+If elevations in bilirubin > 3 x institutional upper limit of normal (IULN) or in liver transaminases > 5 x IULN occur, imatinib should be withheld until bilirubin levels have returned to < 1.5 x IULN and transaminase levels to < 2.5 x IULN. Treatment with imatinib may then be continued at a reduced daily dose. In adults the dose should be reduced from 400 mg to 300 mg or from 600 mg to 400 mg or from 800 mg to 600 mg, and in children from 340 to 260 mg/m2/day.
+ 
+Haematological adverse reactions
+Dose reduction or treatment interruption for severe neutropenia and thrombocytopenia are recommended as indicated in the table below.
+ 
+Dose adjustments for neutropenia and thrombocytopenia:
+ 
+HES/CEL
+(starting dose 100 mg)
+	ANC < 1.0 x 109/l
+and/or
+platelets < 50 x 109/l
+	1. Stop imatinib until ANC ≥ 1.5 x 109/l and platelets ≥ 75 x 109/l.
+2. Resume treatment with imatinib at previous dose (i.e. before severe adverse reaction).
+	Chronic phase CML, MDS/MPD and GIST
+(starting dose 400 mg)
+HES/CEL
+(at dose 400 mg)
+	ANC < 1.0 x 109/l
+and/or
+platelets < 50 x 109/l
+	1. Stop imatinib until ANC ≥ 1.5 x 109/l and platelets ≥ 75 x 109/l.
+2. Resume treatment with imatinib at previous dose (i.e. before severe adverse reaction).
+3. In the event of recurrence of ANC < 1.0 x109/l and/or platelets < 50 x 109/l, repeat step 1 and resume imatinib at reduced dose of 300 mg.
+	Paediatric chronic phase CML (at dose 340 mg/m2)
+	ANC < 1.0 x 109/l
+and/or
+platelets < 50 x 109/l
+	1. Stop imatinib until ANC ≥ 1.5 x 109/l and platelets ≥ 75 x 109/l.
+2. Resume treatment with imatinib at previous dose (i.e. before severe adverse reaction).
+3. In the event of recurrence of ANC < 1.0 x109/l and/or platelets < 50 x 109/l, repeat step 1 and resume imatinib at reduced dose of 260 mg/m2.
+	Accelerated phase CML and blast crisis and Ph+ ALL
+(starting dose 600 mg)
+	a ANC < 0.5 x 109/l
+and/or
+platelets < 10 x 109/l
+	1. Check whether cytopenia is related to leukaemia (marrow aspirate or biopsy).
+2. If cytopenia is unrelated to leukaemia, reduce dose of imatinib to 400 mg.
+3. If cytopenia persists for 2 weeks, reduce further to 300 mg.
+4. If cytopenia persists for 4 weeks and is still unrelated to leukaemia, stop imatinib until ANC ≥ 1 x 109/l and platelets ≥ 20 x 109/l, then resume treatment at 300 mg.
+	Paediatric accelerated phase CML and blast crisis
+(starting dose 340 mg/m2)
+	a ANC < 0.5 x 109/l
+and/or
+platelets < 10 x 109/l
+	1. Check whether cytopenia is related to leukaemia (marrow aspirate or biopsy).
+2. If cytopenia is unrelated to leukaemia, reduce dose of imatinib to 260 mg/m2.
+3. If cytopenia persists for 2 weeks, reduce further to 200 mg/m2.
+4. If cytopenia persists for 4 weeks and is still unrelated to leukaemia, stop Imatinib until ANC ≥ 1 x 109/l and platelets ≥ 20 x 109/l, then resume treatment at 200 mg/m2.
+	DFSP
+(at dose 800 mg)
+	ANC < 1.0 x 109/l
+and/or
+platelets < 50 x 109/l
+	1. Stop imatinib until ANC ≥ 1.5 x 109/l and platelets ≥ 75 x 109/l.
+2. Resume treatment with imatinib at 600 mg.
+3. In the event of recurrence of ANC < 1.0 x109/l and/or platelets < 50 x 109/l, repeat step 1 and resume imatinib at reduced dose of 400 mg.
+	ANC = absolute neutrophil count
+a occurring after at least one month of treatment
+	 
+ 
+Special populations
+ 
+Paediatric population
+There is no experience in children with CML below 2 years of age and with Ph+ALL below 1 year of age (see section 5.1). There is very limited experience in children with MDS/MPD, DFSP, GIST and HES/CEL.
+ 
+The safety and efficacy of imatinib in children with MDS/MPD, DFSP, GIST and HES/CEL aged less than 18 years of age have not been established in clinical trials. Currently available published data are summarised in section 5.1 but no recommendation on a posology can be made.
+ 
+Hepatic insufficiency
+Imatinib is mainly metabolised through the liver. Patients with mild, moderate or severe liver dysfunction should be given the minimum recommended dose of 400 mg daily. The dose can be reduced if not tolerated (see sections 4.4, 4.8 and 5.2).
+ 
+Liver dysfunction classification:
+ 
+Liver dysfunction
+	Liver function tests
+	Mild
+	Total bilirubin: = 1.5 ULN
+AST: >ULN (can be normal or < ULN if total bilirubin is > ULN)
+	Moderate
+	Total bilirubin: > 1.5‑3.0 ULN
+AST: any
+	Severe
+	Total bilirubin: > 3‑10 ULN
+AST: any
+	ULN = upper limit of normal for the institution
+AST = aspartate aminotransferase
+ 
+Renal insufficiency
+Patients with renal dysfunction or on dialysis should be given the minimum recommended dose of 400 mg daily as starting dose. However, in these patients caution is recommended. The dose can be reduced if not tolerated. If tolerated, the dose can be increased for lack of efficacy (see sections 4.4 and 5.2).
+ 
+Elderly
+Imatinib pharmacokinetics has not been specifically studied in the elderly. No significant age‑related pharmacokinetic differences have been observed in adult patients in clinical trials which included over 20% of patients age 65 and older. No specific dose recommendation is necessary in the elderly.
+Method of administration
+The prescribed dose should be administered orally with a meal and a large glass of water to minimise the risk of gastrointestinal irritations. Doses of 400 mg or 600 mg should be administered once daily, whereas a daily dose of 800 mg should be administered as 400 mg twice a day, in the morning and in the evening. For patients (children) unable to swallow the capsules, their content may be diluted in a glass of either still water or apple juice. Since studies in animals have shown reproductive toxicity, and the potential risk for the human foetus is unknown, women of child-bearing potential who open capsules should be advised to handle the contents with caution and avoid skin‑eye contact or inhalation (see section 4.6). Hands should be washed immediately after handling open capsules.
+4.3 Contraindications
+Hypersensitivity to the active substance or to any of the excipients listed in section 6.1.
+4.4 Special warnings and precautions for use
+When imatinib is co‑administered with other medicinal products, there is a potential for drug interactions. Caution should be used when taking imatinib with protease inhibitors, azole antifungals, certain macrolides, CYP3A4 substrates with a narrow therapeutic window (e.g. cyclosporine, pimozide, tacrolimus, sirolimus, ergotamine, diergotamine, fentanyl, alfentanil, terfenadine, bortezomib, docetaxel, quinidine) or warfarin and other coumarin derivatives (see section 4.5).
+ 
+Concomitant use of imatinib and medicinal products that induce CYP3A4 (e.g. dexamethasone, phenytoin, carbamazepine, rifampicin, phenobarbital or Hypericum perforatum, also known as St. John’s Wort) may significantly reduce exposure to imatinib, potentially increasing the risk of therapeutic failure. Therefore, concomitant use of strong CYP3A4 inducers and imatinib should be avoided (see section 4.5).
+ 
+Hypothyroidism
+Clinical cases of hypothyroidism have been reported in thyroidectomy patients undergoing levothyroxine replacement during treatment with imatinib (see section 4.5). Thyroid‑stimulating hormone (TSH) levels should be closely monitored in such patients.
+ 
+Hepatotoxicity
+Metabolism of imatinib is mainly hepatic, and only 13% of excretion is through the kidneys. In patients with hepatic dysfunction (mild, moderate or severe), peripheral blood counts and liver enzymes should be carefully monitored (see sections 4.2, 4.8 and 5.2). It should be noted that GIST patients may have hepatic metastases which could lead to hepatic impairment.
+ 
+Cases of liver injury, including hepatic failure and hepatic necrosis, have been observed with imatinib. When imatinib is combined with high dose chemotherapy regimens, an increase in serious hepatic reactions has been detected. Hepatic function should be carefully monitored in circumstances where imatinib is combined with chemotherapy regimens also known to be associated with hepatic dysfunction (see sections 4.5 and 4.8).
+ 
+Fluid retention
+Occurrences of severe fluid retention (pleural effusion, oedema, pulmonary oedema, ascites, superficial oedema) have been reported in approximately 2.5% of newly diagnosed CML patients taking imatinib. Therefore, it is highly recommended that patients be weighed regularly. An unexpected rapid weight gain should be carefully investigated and if necessary appropriate supportive care and therapeutic measures should be undertaken. In clinical trials, there was an increased incidence of these events in the elderly and those with a prior history of cardiac disease. Therefore, caution should be exercised in patients with cardiac dysfunction.
+ 
+Patients with cardiac disease
+Patients with cardiac disease, risk factors for cardiac failure or history of renal failure should be monitored carefully, and any patient with signs or symptoms consistent with cardiac or renal failure should be evaluated and treated.
+ 
+In patients with hypereosinophilic syndrome (HES) with occult infiltration of HES cells within the myocardium, isolated cases of cardiogenic shock/left ventricular dysfunction have been associated with HES cell degranulation upon the initiation of imatinib therapy. The condition was reported to be reversible with the administration of systemic steroids, circulatory support measures and temporarily withholding imatinib. As cardiac adverse events have been reported uncommonly with imatinib, a careful assessment of the benefit/risk of imatinib therapy should be considered in the HES/CEL population before treatment initiation.
+ 
+Myelodysplastic/myeloproliferative diseases with PDGFR gene re‑arrangements could be associated with high eosinophil levels. Evaluation by a cardiology specialist, performance of an echocardiogram and determination of serum troponin should therefore be considered in patients with HES/CEL, and in patients with MDS/MPD associated with high eosinophil levels before imatinib is administered. If either is abnormal, follow‑up with a cardiology specialist and the prophylactic use of systemic steroids (1‑2 mg/kg) for one to two weeks concomitantly with imatinib should be considered at the initiation of therapy.
+ 
+Gastrointestinal haemorrhage
+In the study in patients with unresectable and/or metastatic GIST, both gastrointestinal and intra‑tumoural haemorrhages were reported (see section 4.8). Based on the available data, no predisposing factors (e.g. tumour size, tumour location, coagulation disorders) have been identified that place patients with GIST at a higher risk of either type of haemorrhage. Since increased vascularity and propensity for bleeding is a part of the nature and clinical course of GIST, standard practices and procedures for the monitoring and management of haemorrhage in all patients should be applied.
+ 
+In addition, gastric antral vascular ectasia (GAVE), a rare cause of gastrointestinal haemorrhage, has been reported in post-marketing experience in patients with CML, ALL and other diseases (see section 4.8). When needed, discontinuation of Imatinib Teva treatment may be considered.
+ 
+Tumour lysis syndrome
+Due to the possible occurrence of tumour lysis syndrome (TLS), correction of clinically significant dehydration and treatment of high uric acid levels are recommended prior to initiation of imatinib (see section 4.8).
+ 
+Hepatitis B reactivation
+Reactivation of hepatitis B in patients who are chronic carriers of this virus has occurred after these patients received BCR-ABL tyrosine kinase inhibitors. Some cases resulted in acute hepatic failure or fulminant hepatitis leading to liver transplantation or a fatal outcome.
+Patients should be tested for HBV infection before initiating treatment with Imatinib Teva. Experts in liver disease and in the treatment of hepatitis B should be consulted before treatment is initiated in patients with positive hepatitis B serology (including those with active disease) and for patients who test positive for HBV infection during treatment. Carriers of HBV who require treatment with Imatinib Teva should be closely monitored for signs and symptoms of active HBV infection throughout therapy and for several months following termination of therapy (see section 4.8).
+ 
+Phototoxicity
+Exposure to direct sunlight should be avoided or minimised due to the risk of phototoxicity associated with imatinib treatment. Patients should be instructed to use measures such as protective clothing and sunscreen with high sun protection factor (SPF).
+ 
+Thrombotic microangiopathy
+BCR-ABL tyrosine kinase inhibitors (TKIs) have been associated with thrombotic microangiopathy (TMA), including individual case reports for Imatinib Teva (see section 4.8). If laboratory or clinical findings associated with TMA occur in a patient receiving Imatinib Teva , treatment should be discontinued and thorough evaluation for TMA, including ADAMTS13 activity and anti-ADAMTS13-antibody determination, should be completed. If anti-ADAMTS13-antibody is elevated in conjunction with low ADAMTS13 activity, treatment with Imatinib Teva should not be resumed.
+ 
+Laboratory tests
+Complete blood counts must be performed regularly during therapy with imatinib. Treatment of CML patients with imatinib has been associated with neutropenia or thrombocytopenia. However, the occurrence of these cytopenias is likely to be related to the stage of the disease being treated and they were more frequent in patients with accelerated phase CML or blast crisis as compared to patients with chronic phase CML. Treatment with imatinib may be interrupted or the dose may be reduced, as recommended in section 4.2.
+ 
+Liver function (transaminases, bilirubin, alkaline phosphatase) should be monitored regularly in patients receiving imatinib.
+ 
+In patients with impaired renal function, imatinib plasma exposure seems to be higher than that in patients with normal renal function, probably due to an elevated plasma level of alpha‑acid glycoprotein (AGP), an imatinib‑binding protein, in these patients. Patients with renal impairment should be given the minimum starting dose. Patients with severe renal impairment should be treated with caution. The dose can be reduced if not tolerated (see section 4.2 and 5.2).
+ 
+Long-term treatment with imatinib may be associated with a clinically significant decline in renal function. Renal function should, therefore, be evaluated prior to the start of imatinib therapy and closely monitored during therapy, with particular attention to those patients exhibiting risk factors for renal dysfunction. If renal dysfunction is observed, appropriate management and treatment should be prescribed in accordance with standard treatment guidelines.
+ 
+Paediatric population
+There have been case reports of growth retardation occurring in children and pre‑adolescents receiving imatinib. In an observational study in the CML paediatric population, a statistically significant decrease (but of uncertain clinical relevance) in median height standard deviation scores after 12 and 24 months of treatment was reported in two small subsets irrespective of pubertal status or gender. Close monitoring of growth in children under imatinib treatment is recommended (see section 4.8).
+4.5 Interaction with other medicinal products and other forms of interaction
+Active substances that may increase imatinib plasma concentrations
+Substances that inhibit the cytochrome P450 isoenzyme CYP3A4 activity (e.g. protease inhibitors such as indinavir, lopinavir/ritonavir, ritonavir, saquinavir, telaprevir, nelfinavir, boceprevir; azole antifungals including ketoconazole, itraconazole, posaconazole, voriconazole; certain macrolides such as erythromycin, clarithromycin and telithromycin) could decrease metabolism and increase imatinib concentrations. There was a significant increase in exposure to imatinib (the mean Cmax and AUC of imatinib rose by 26% and 40%, respectively) in healthy subjects when it was co‑administered with a single dose of ketoconazole (a CYP3A4 inhibitor). Caution should be taken when administering imatinib with inhibitors of the CYP3A4 family.

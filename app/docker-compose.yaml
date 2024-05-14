@@ -1,0 +1,32 @@
+version: '3.8'
+
+services:
+  intersystems:
+    image: intersystemsdc/iris-community:latest
+    container_name: iris-comm
+    ports:
+      - "1972:1972"
+      - "52773:52773"
+    environment:
+      IRIS_PASSWORD: ${IRIS_PASSWORD}
+      IRIS_USERNAME: ${IRIS_USERNAME}
+
+  app:
+    build: ./streamlit
+    container_name: app
+    depends_on:
+      - intersystems
+    volumes:
+      - ./streamlit:/app
+    ports:
+      - "8501:8501"
+      - "8502:8502"
+    environment:
+      IRIS_USERNAME: ${IRIS_USERNAME}
+      IRIS_PASSWORD: ${IRIS_PASSWORD}
+      IRIS_HOSTNAME: ${IRIS_HOSTNAME}
+      IRIS_PORT: ${IRIS_PORT}
+      IRIS_TABLE_NAME: ${IRIS_TABLE_NAME}
+      IRIS_NAMESPACE: ${IRIS_NAMESPACE}
+      OPENAI_API_KEY: ${OPENAI_API_KEY}
+    command: sh -c "sleep 40 && python3 db_operations.py && exec streamlit run main.py --server.address 0.0.0.0"
