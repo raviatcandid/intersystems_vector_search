@@ -5,8 +5,6 @@ This project demonstrates a Vector Search application using Large Language Model
 
 ## Project Structure
 ```
-tree .
-.
 ├── app
 │   ├── docker-compose.yaml
 │   └── streamlit
