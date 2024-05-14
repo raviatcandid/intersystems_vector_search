@@ -4,18 +4,28 @@
 This project demonstrates a Vector Search application using Large Language Models (LLMs) integrated with InterSystems IRIS. The application is built using Streamlit and leverages OpenAI's API for natural language processing tasks.
 
 ## Project Structure
-`
-├── docker-compose.yaml
-└── streamlit
-    ├── combined_code.py
-    ├── constants.py
-    ├── db_operations.py
-    ├── Dockerfile
-    ├── helper.py
-    ├── main.py
-    ├── openai_llm.py
-    ├── requirements.txt
-`
+```
+tree .
+.
+├── app
+│   ├── docker-compose.yaml
+│   └── streamlit
+│       ├── combined_code.py
+│       ├── constants.py
+│       ├── db_operations.py
+│       ├── Dockerfile
+│       ├── helper.py
+│       ├── main.py
+│       ├── openai_llm.py
+│       └── requirements.txt
+├── jupyter_notebooks
+│   ├── intersystems_vector_search.ipynb
+│   └── sample_data
+│       ├── example_Imatinib_Teva.pdf
+│       ├── large_document.txt
+│       └── small_data.txt
+└── README.md
+```
 
 ## Prerequisites
 Ensure you have the following installed on your local machine:
