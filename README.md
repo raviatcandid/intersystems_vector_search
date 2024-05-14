@@ -39,7 +39,7 @@ Ensure you have the following installed on your local machine:
 
 ## Set Up Environment Variables
 Create a .env file in the root directory of your project and add the following environment variables:
-`
+```
 IRIS_USERNAME=demo
 IRIS_PASSWORD=demo
 IRIS_HOSTNAME=intersystems
@@ -47,7 +47,7 @@ IRIS_PORT=1972
 IRIS_TABLE_NAME=intersystems_table
 IRIS_NAMESPACE=USER
 OPENAI_API_KEY=<your-openai-api-key>
-`
+```
 
 ## Build and Run the Application
 Run the following command to build and start the services:
