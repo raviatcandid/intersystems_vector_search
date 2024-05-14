@@ -51,9 +51,9 @@ OPENAI_API_KEY=<your-openai-api-key>
 
 ## Build and Run the Application
 Run the following command to build and start the services:
-`
+```
 docker compose up --build
-`
+```
 
 ## This will start two services:
 - InterSystems IRIS: Runs on ports 1972 and 52773.
@@ -74,6 +74,12 @@ The file content will be processed and inserted into the InterSystems IRIS datab
 ### Asking Questions
 Enter your question in the provided input box and click the Submit button.
 The application will generate a response to your question using OpenAI's API and display relevant search results from the InterSystems IRIS database.
+
+## Closing app
+Simply do Ctrl+C from the same terminal
+```
+docker compose down
+```
 
 ## Project Components
 
