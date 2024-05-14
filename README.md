@@ -24,8 +24,8 @@ Ensure you have the following installed on your local machine:
 
 ## Getting Started
 - Clone the Repository
-- git clone <repository-url>
-- cd <repository-directory>
+- git clone https://github.com/mychoys-co/intersystems_vector_search
+- cd app
 
 ## Set Up Environment Variables
 Create a .env file in the root directory of your project and add the following environment variables:
@@ -42,7 +42,7 @@ OPENAI_API_KEY=<your-openai-api-key>
 ## Build and Run the Application
 Run the following command to build and start the services:
 `
-docker-compose up --build
+docker compose up --build
 `
 
 ## This will start two services:
