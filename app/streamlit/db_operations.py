@@ -61,7 +61,7 @@ def verify_table_existence():
                     conn.execute(text(check_sql))
             return True
         except SQLAlchemyError as e:
-            print(f"Table check failed - Table does not exist: {e}")
+            print(f"Table check: Table does not exist")
             return False
     return False
 
