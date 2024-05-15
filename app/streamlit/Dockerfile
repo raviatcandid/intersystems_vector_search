@@ -18,4 +18,4 @@ RUN python -c "from sentence_transformers import SentenceTransformer; \
     SentenceTransformer('all-MiniLM-L6-v2')"
 
 # Combine commands into the Dockerfile CMD directive
-CMD sleep 40 && python3 db_operations.py && exec streamlit run main.py --server.address 0.0.0.0
+CMD sleep 25 && python3 db_operations.py && exec streamlit run main.py --server.address 0.0.0.0

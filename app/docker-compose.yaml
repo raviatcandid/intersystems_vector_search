@@ -29,4 +29,4 @@ services:
       IRIS_TABLE_NAME: ${IRIS_TABLE_NAME}
       IRIS_NAMESPACE: ${IRIS_NAMESPACE}
       OPENAI_API_KEY: ${OPENAI_API_KEY}
-    command: sh -c "sleep 40 && python3 db_operations.py && exec streamlit run main.py --server.address 0.0.0.0"
+    command: sh -c "sleep 25 && python3 db_operations.py && exec streamlit run main.py --server.address 0.0.0.0"

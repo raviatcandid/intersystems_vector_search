@@ -48,16 +48,37 @@ OPENAI_API_KEY=<your-openai-api-key>
 ```
 
 ## Build and Run the Application
+
+### If Using the app through docker and UI
 Run the following command to build and start the services:
 ```
 docker compose up --build
+```
+
+If encounter docker timeout issue do
+```
+docker compose down
+docker compose up --build
+```
+
+### If want to use the app through jupyter notebook
+
+Run Intersystems DB
+```
+docker run --name iris-comm -p 1972:1972 -p 52773:52773 -e IRIS_PASSWORD=demo -e IRIS_USERNAME=demo intersystemsdc/iris-community:latest
+```
+
+Run jupyter notebook
+```
+cd jupyter_notebooks
+jupyter notebook
 ```
 
 ## This will start two services:
 - InterSystems IRIS: Runs on ports 1972 and 52773.
 - Streamlit App: Runs on ports 8501 and 8502.
 
-## Access the Application
+## Access the Application if using through docker
 Once the services are up and running, you can access the Streamlit application by navigating to:
 `
 http://localhost:8501
@@ -74,9 +95,18 @@ Enter your question in the provided input box and click the Submit button.
 The application will generate a response to your question using OpenAI's API and display relevant search results from the InterSystems IRIS database.
 
 ## Closing app
-Simply do Ctrl+C from the same terminal
+
+### If using though docker compose
+Simply do Ctrl+C from the terminal
 ```
 docker compose down
+```
+
+### If using jupyter notebook
+- Close notebooks
+- Close Intersystems, do Ctrl+C
+```
+docker rm iris-comm
 ```
 
 ## Project Components
@@ -107,7 +137,7 @@ Contain various helper functions and constants used throughout the application.
 
 ## Notes
 Ensure that the InterSystems IRIS container is fully up and running before attempting to use the Streamlit application.
-The sleep 40 command in the Docker configuration ensures that the IRIS service has enough time to start before the application attempts to connect.
+The sleep 25 command in the Docker configuration ensures that the IRIS service has enough time to start before the application attempts to connect.
 
 ## Troubleshooting
 If you encounter any issues, check the logs of both containers using the following command:
