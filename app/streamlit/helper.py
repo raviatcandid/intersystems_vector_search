@@ -40,7 +40,7 @@ def extract_text_from_file(file_stream):
             if annotations:
                 for annotation in annotations.get_object():
                     annotation_obj = annotation.get_object()
-                    print(annotation_obj)
+                    #print(annotation_obj)
                     if annotation_obj.get('/Subtype') == '/Widget':
                         # Extract text from form fields (annotations)
                         field_name = annotation_obj.get('/TU')
