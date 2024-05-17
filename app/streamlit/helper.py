@@ -21,14 +21,35 @@ def extract_text_from_file(file_stream):
         content = file_stream.read().decode('utf-8')
         return content
 
+    #elif 'pdf' in file_type:
+    #    file_stream.seek(0)
+    #    pdf_reader = PyPDF2.PdfReader(file_stream)
+    #    accumulated_text = ''
+    #    for page in pdf_reader.pages:
+    #        accumulated_text += page.extract_text() + '\n'
+    #    return accumulated_text
     elif 'pdf' in file_type:
         file_stream.seek(0)
         pdf_reader = PyPDF2.PdfReader(file_stream)
         accumulated_text = ''
+        # Iterate through each page of the PDF
         for page in pdf_reader.pages:
-            accumulated_text += page.extract_text() + '\n'
+            page_text = page.extract_text()
+            # Extract annotations (form fields) from the page
+            annotations = page.get('/Annots')
+            if annotations:
+                for annotation in annotations.get_object():
+                    annotation_obj = annotation.get_object()
+                    print(annotation_obj)
+                    if annotation_obj.get('/Subtype') == '/Widget':
+                        # Extract text from form fields (annotations)
+                        field_name = annotation_obj.get('/TU')
+                        field_text = annotation_obj.get('/V')
+                        if field_text:
+                            accumulated_text += field_name.strip()+' : '+field_text.strip() + '\n'                    
+            # Add extracted text from the page
+            accumulated_text += page_text + '\n'
         return accumulated_text
-
     else:
         print("Unsupported file format. Acceptable formats include .txt and .pdf.")
         return None
